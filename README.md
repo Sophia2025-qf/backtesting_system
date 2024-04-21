@@ -7,7 +7,7 @@ This localized backtesting system is tailored for quantitative trading strategie
 
 # Key Features
 
-1. Localized design: The system is 100% localized, protecting your strategies to the fullest.
+1. Localized design: The system ensures 100% localization and privacy protection, safeguarding your strategies with utmost security.
 
 2. Flexible asset support: The system supports a wide range of asset classes, including stocks, indexes, funds, futures, and options, catering to diverse trading strategies.
 
